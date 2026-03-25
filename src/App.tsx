@@ -257,7 +257,7 @@ export default function App() {
               {
                 title: "Precision Restoration",
                 description: "Full Arch Rehabilitation",
-                image: "/makaover2.jpg"
+                image: "/makeover2.jpg"
               },
               {
                 title: "Cosmetic Transformation",
